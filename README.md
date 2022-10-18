@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm David, a frontend engineer.
+#### I'm David, a frontend engineer with fullstack experience.
 
 Please, enjoy some relaxing music while you browse:    https://bgm-crossing.vercel.app
 
