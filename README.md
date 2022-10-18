@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 #### I'm David, a frontend engineer.
 
+Please, enjoy some relaxing music while you browse:    https://bgm-crossing.vercel.app
+
+<div align="center">
+<img width="200" alt="screenshot" src="https://user-images.githubusercontent.com/3654471/196556040-44a1e308-e477-4222-8a00-64a5f38332b3.png" style="text-align: center;">
+<p>Chill AC:NH hourly background music to relax and study to.</p>
+</div>
+
 <div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" **alt="jQuery" width="40" height="40"/>&nbsp;
@@ -29,7 +36,7 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>&nbsp;
-   
+
 
 
 </div>
