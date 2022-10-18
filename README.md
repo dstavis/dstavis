@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Please, enjoy some relaxing music while you browse:    https://bgm-crossing.vercel.app
 
 <div align="center">
-<img width="200" alt="screenshot" src="https://user-images.githubusercontent.com/3654471/196556040-44a1e308-e477-4222-8a00-64a5f38332b3.png" style="text-align: center;">
+<a href="https://bgm-crossing.vercel.app" target="_blank"><img width="200" alt="screenshot" src="https://user-images.githubusercontent.com/3654471/196556040-44a1e308-e477-4222-8a00-64a5f38332b3.png" style="text-align: center;"></a>
 <p>Chill AC:NH hourly background music to relax and study to.</p>
 </div>
 
