@@ -59,7 +59,6 @@ Please, enjoy some relaxing music while you browse:    https://bgm-crossing.verc
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
-Skill Share	Skill Share	![Skill Share]
 
 ### Learning Next
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
